@@ -1,0 +1,77 @@
+body {
+    font-family: 'Aclonica', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Volkhov', serif;
+    margin: 0;
+}
+
+#skip-color {
+    color: rgb(214, 123, 19);
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 600;
+    padding: 0;
+    line-height: 70%;
+}
+
+p {
+    font-size: larger;
+    color: rgb(96, 103, 103);
+    text-align: justify;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(244, 174, 77), rgb(204, 41, 13));
+    padding: 13px 35px;
+    border-radius: 30px;
+    color: white;
+}
+
+.felxible-container {
+    display: flex;
+}
+
+.half-portion {
+    width: 50%;
+}
+
+.half-portion {
+    margin-left: 40px;
+}
+
+.for-margin-top {
+    margin-top: 140px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+h2 {
+    color: rgb(81, 78, 78);
+    font-size: 35px;
+}
+
+.middle-banner {
+    background-image: url(images/middle-banner.png);
+    background-repeat: no-repeat;
+}
+
+#middle-image {
+    padding-left: 50px;
+}
+
+#my-recipes {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.recipes {
+    box-shadow: 10px 10px 30px rgb(64, 187, 64);
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+}
